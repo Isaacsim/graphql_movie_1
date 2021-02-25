@@ -1,0 +1,9 @@
+{
+  "name": "graphql_movie_1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Isaacsim/graphql_movie_1.git",
+  "author": "Isaacsim",
+  "license": "MIT",
+  "private": false
+}
